@@ -43,9 +43,3 @@ The interactive dashboard includes:
 * **Victim Support:** Develop safety awareness programs specifically targeting the "Young Adult" demographic (33% of victims).
 * **Policy Focus:** Prioritize de-escalation training, as Physical Force remains the most common incident factor.
 
----
-
-## 🚀 How to Run
-1. Clone this repository.
-2. Open the `Crime_Cleaning.ipynb` to see the Python preprocessing.
-3. Import the `Crime_Data.pbix` file into Power BI Desktop to interact with the dashboard.
